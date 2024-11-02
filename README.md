@@ -29,5 +29,9 @@ This utility:
 ## Contributing
 Feel free to submit issues and enhancement requests.
 
+## Current issues & Possible fixes
+- Audio applications vanish from volume controls after extended usage
+  * Possible fix: restart the app every certain period of time
+
 ## License
 [MIT LICENSE](./LICENSE)
