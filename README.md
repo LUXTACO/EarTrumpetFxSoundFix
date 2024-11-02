@@ -26,12 +26,11 @@ This utility:
 - [EarTrumpet Issue #977](https://github.com/File-New-Project/EarTrumpet/issues/977)
 - [FxSound Forum Topic #753](https://forum.fxsound.com/t/fxsound-incompatible-with-eartrumpet/753)
 
+## Current Issues
+- Audio applications vanish from volume controls after extended usage
+
 ## Contributing
 Feel free to submit issues and enhancement requests.
-
-## Current issues & Possible fixes
-- Audio applications vanish from volume controls after extended usage
-  * Possible fix: restart the app every certain period of time
 
 ## License
 [MIT LICENSE](./LICENSE)
