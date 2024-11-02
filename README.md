@@ -18,8 +18,9 @@ This utility:
 
 ## Installation
 1. Download the latest release
-2. Run the executable
-3. (Optional) Add to startup programs for automatic operation
+2. Move your shortcut into the shortcuts folder
+3. Run the executable
+4. (Optional) Add to startup programs for automatic operation
 
 ## Related Issues
 - [EarTrumpet Issue #977](https://github.com/File-New-Project/EarTrumpet/issues/977)
