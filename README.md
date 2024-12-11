@@ -30,7 +30,15 @@ This utility:
 - Audio applications vanish from volume controls after extended usage
 
 ## Contributing
-Feel free to submit issues and enhancement requests.
+We welcome contributions to enhance this software! To contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix (`git checkout -b feature/AmazingFeature`).
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the branch (`git push origin feature/AmazingFeature`).
+5. Open a Pull Request.
+
+Make sure the program compiles correctly and runs correctly!
 
 ## License
 [MIT LICENSE](./LICENSE)
