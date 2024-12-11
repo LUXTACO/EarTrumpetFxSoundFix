@@ -39,6 +39,3 @@ We welcome contributions to enhance this software! To contribute:
 5. Open a Pull Request.
 
 Make sure the program compiles correctly and runs correctly!
-
-## License
-[MIT LICENSE](./LICENSE)
